@@ -1,0 +1,23 @@
+{
+  "name": "js-drum-kit",
+  "version": "1.0.0",
+  "description": "A JavaScript Project for making a Drum Kit. Interactive page having sounds and animations. Usuage of DOM events.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikkimahato/JavaScript-Drum-Kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikkimahato/JavaScript-Drum-Kit/issues"
+  },
+  "homepage": "https://github.com/bikkimahato/JavaScript-Drum-Kit#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
